@@ -1,5 +1,5 @@
 # eternity-toml-lua
-This is a modified version of lua-toml.
+This is a modified version of lua-toml (Available under the Happy License (same as this license)).
 - https://github.com/jonstoler/lua-toml
 
 It is modified to fit the eternity engine.
